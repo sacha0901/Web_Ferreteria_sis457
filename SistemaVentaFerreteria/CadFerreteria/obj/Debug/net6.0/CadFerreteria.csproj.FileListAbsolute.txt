@@ -1,0 +1,15 @@
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\bin\Debug\net6.0\CadFerreteria.deps.json
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\bin\Debug\net6.0\CadFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\bin\Debug\net6.0\CadFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.csproj.AssemblyReference.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.AssemblyInfoInputs.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.AssemblyInfo.cs
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.csproj.CoreCompileInputs.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\refint\CadFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\ref\CadFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\bin\Debug\net6.0\EntityFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\bin\Debug\net6.0\EntityFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\CadFerreteria\obj\Debug\net6.0\CadFerreteria.csproj.CopyComplete

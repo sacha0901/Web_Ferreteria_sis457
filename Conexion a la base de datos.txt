@@ -1,0 +1,6 @@
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=Minerva;User ID=usrminerva;Password=123456" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -F
+
+
+Cadena de conexion :
+
+Scaffold-DbContext "Server=AICO\SQLEXPRESS;Database=DBVENTA;User ID=usrdbventa;Password=123456;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer 

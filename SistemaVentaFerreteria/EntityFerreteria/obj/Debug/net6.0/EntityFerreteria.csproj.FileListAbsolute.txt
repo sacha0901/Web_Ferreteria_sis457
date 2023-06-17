@@ -1,0 +1,14 @@
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\bin\Debug\net6.0\EntityFerreteria.deps.json
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\bin\Debug\net6.0\EntityFerreteria.runtimeconfig.json
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\bin\Debug\net6.0\EntityFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\bin\Debug\net6.0\EntityFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.csproj.AssemblyReference.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.AssemblyInfoInputs.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.AssemblyInfo.cs
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.csproj.CoreCompileInputs.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\refint\EntityFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\EntityFerreteria.genruntimeconfig.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\EntityFerreteria\obj\Debug\net6.0\ref\EntityFerreteria.dll

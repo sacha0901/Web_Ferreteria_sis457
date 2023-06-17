@@ -1,0 +1,17 @@
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\bin\Debug\net6.0\ClnFerreteria.deps.json
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\bin\Debug\net6.0\ClnFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\bin\Debug\net6.0\ClnFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.csproj.AssemblyReference.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.AssemblyInfoInputs.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.AssemblyInfo.cs
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.csproj.CoreCompileInputs.cache
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\refint\ClnFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ref\ClnFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\bin\Debug\net6.0\CadFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\bin\Debug\net6.0\EntityFerreteria.dll
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\bin\Debug\net6.0\CadFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\bin\Debug\net6.0\EntityFerreteria.pdb
+D:\Informatica4toSemestre\Sistema_Web_Ferreteria\SistemaVentaFerreteria\ClnFerreteria\obj\Debug\net6.0\ClnFerreteria.csproj.CopyComplete
